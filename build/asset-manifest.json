@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/knex-querylab/static/css/main.05a3ccdb.chunk.css",
+    "main.js": "/knex-querylab/static/js/main.d8b8208d.chunk.js",
+    "main.js.map": "/knex-querylab/static/js/main.d8b8208d.chunk.js.map",
+    "runtime~main.js": "/knex-querylab/static/js/runtime~main.0f84ab14.js",
+    "runtime~main.js.map": "/knex-querylab/static/js/runtime~main.0f84ab14.js.map",
+    "static/css/2.da2a1a23.chunk.css": "/knex-querylab/static/css/2.da2a1a23.chunk.css",
+    "static/js/2.31ea5493.chunk.js": "/knex-querylab/static/js/2.31ea5493.chunk.js",
+    "static/js/2.31ea5493.chunk.js.map": "/knex-querylab/static/js/2.31ea5493.chunk.js.map",
+    "index.html": "/knex-querylab/index.html",
+    "precache-manifest.e364946c76874bf1859ca2110ad1eac6.js": "/knex-querylab/precache-manifest.e364946c76874bf1859ca2110ad1eac6.js",
+    "service-worker.js": "/knex-querylab/service-worker.js",
+    "static/css/2.da2a1a23.chunk.css.map": "/knex-querylab/static/css/2.da2a1a23.chunk.css.map",
+    "static/css/main.05a3ccdb.chunk.css.map": "/knex-querylab/static/css/main.05a3ccdb.chunk.css.map"
+  }
+}
